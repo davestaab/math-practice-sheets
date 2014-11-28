@@ -1,4 +1,4 @@
-math-practive-sheets
+math-practice-sheets
 ====================
 
 Printable work sheets for practicing multiplication and times tables.
