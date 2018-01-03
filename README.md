@@ -3,11 +3,11 @@ math-practice-sheets
 
 Printable work sheets for practicing multiplication and times tables.
 
-#Live Demo
+# Live Demo
 
 See the working site [here](http://davestaab.github.io/math-practice-sheets/).  
 
-#Welcome!
+# Welcome!
 
 This is a simple project to help with printing practice sheets for multiplication timed tests.
 
